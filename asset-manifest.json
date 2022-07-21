@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/anthonybox.dev/static/css/main.3d7272df.css",
+    "main.js": "/anthonybox.dev/static/js/main.99f6f259.js",
+    "static/js/787.9750ae9a.chunk.js": "/anthonybox.dev/static/js/787.9750ae9a.chunk.js",
+    "static/media/AnthonyBox.pdf": "/anthonybox.dev/static/media/AnthonyBox.a167bb4c3690c3be1ea2.pdf",
+    "static/media/hero_anthony.png": "/anthonybox.dev/static/media/hero_anthony.6f796181fdb40b0e8506.png",
+    "static/media/hero_blob.png": "/anthonybox.dev/static/media/hero_blob.81fbc76bde3e14bfebfe.png",
+    "index.html": "/anthonybox.dev/index.html",
+    "main.3d7272df.css.map": "/anthonybox.dev/static/css/main.3d7272df.css.map",
+    "main.99f6f259.js.map": "/anthonybox.dev/static/js/main.99f6f259.js.map",
+    "787.9750ae9a.chunk.js.map": "/anthonybox.dev/static/js/787.9750ae9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d7272df.css",
+    "static/js/main.99f6f259.js"
+  ]
+}
